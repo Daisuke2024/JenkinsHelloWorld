@@ -1,0 +1,2 @@
+JK-CD-97_75351616*vicky
+localhost:8080/job/HelloWorld/build?token=JK-CD-97_75351616*vicky
